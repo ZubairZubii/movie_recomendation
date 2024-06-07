@@ -43,3 +43,14 @@ Dropdown menu to select a movie from the dataset.
 "Recommend" button to generate recommendations.
 Recommendation Display:
 Display the titles and posters of the recommended movies in a row.
+
+
+#SCREENSHOTS
+
+![Screenshot 2024-06-07 101746](https://github.com/ZubairZubii/movie_recomendation/assets/148703653/5fe765ce-904c-4cc5-8253-34a5d6664a85)
+
+
+![Screenshot 2024-06-07 101802](https://github.com/ZubairZubii/movie_recomendation/assets/148703653/4101336b-6de0-4b59-b6d8-a6c5bf96fbd3)
+
+
+![Screenshot 2024-06-07 102002](https://github.com/ZubairZubii/movie_recomendation/assets/148703653/5c167eda-b3ca-4f8e-8bc9-a3f57ae0b9b9)
